@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercicios-poo-jogos-digitais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3849e0e93ce04906ab846073b0e9c98315239483")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f461b68a4a0f91f2028c05c8f6351d30b8a0be87")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercicios-poo-jogos-digitais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercicios-poo-jogos-digitais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
